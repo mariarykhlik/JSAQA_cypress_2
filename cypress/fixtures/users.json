@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "email": "qamid@qamid.ru",
+        "password": "qamid"
+    },
+    "notAdmin": {
+        "email": "test@test.com",
+        "password": "test"
+    }
+}

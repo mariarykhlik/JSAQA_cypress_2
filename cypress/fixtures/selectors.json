@@ -1,0 +1,18 @@
+{
+    "emailField": "[for=\"email\"] > .login__input",
+    "passwordField": "[for=\"pwd\"] > .login__input",
+    "loginButton": ".login__button",
+    "day": ".page-nav__day",
+    "today": ".page-nav__day_today",
+    "tomorrow": ".page-nav__day:nth-of-type(2)",
+    "chosen": ".page-nav__day_chosen",
+    "movie": ".movie",
+    "info": ".movie__description",
+    "poster": ".movie__poster-image",
+    "hallSeances": ".movie-seances__hall > .movie-seances__list",
+    "movieAdminName": ".conf-step__movie > .conf-step__movie-title",
+    "movieName": ".movie__title",
+    "availableSeance": ".movie-seances__time:not(.acceptin-button-disabled)",
+    "vacantStandartSeat": ".buying-scheme__chair.buying-scheme__chair_standart:not(.buying-scheme__chair_taken, .buying-scheme__chair_selected)",
+    "button": "button"
+}
